@@ -1,6 +1,6 @@
 # Guillaume Salzet
 
-![Logo EcoFoG](images/EcoFoG2020.png)
+![Photo linkedin](images/Guillaume_Salzet.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
