@@ -1,4 +1,4 @@
-# Introduction du cours Travailler avec R
+# Guillaume Salzet
 
 ![Logo EcoFoG](images/EcoFoG2020.png)
 
